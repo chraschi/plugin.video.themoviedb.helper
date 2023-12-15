@@ -2,7 +2,7 @@
 <addon id="plugin.video.themoviedb.helper"
 version="5.2.9~nexus"
 name="TheMovieDb Helper"
-provider-name="jurialmunkey">
+provider-name="chraschi">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests" version="2.9.1"/>
@@ -24,7 +24,8 @@ provider-name="jurialmunkey">
   <description lang="en_GB">TheMovieDb Helper provides details about movies, tvshows and actors from TMDb. Users can access a variety of lists from TMDb TVDb MDbList and Trakt.</description>
   <disclaimer lang="en_GB">Data provided by TheMovieDb TVDb MDbList OMDb FanartTV and Trakt. Some of the information is provided by TheTVDB.com. Please consider supporting them. https://thetvdb.com/subscribe</disclaimer>
   <license>GPL-3.0-or-later</license>
-  <website>https://github.com/jurialmunkey/plugin.video.themoviedb.helper</website>
+  <source>https://github.com/chraschi/plugin.video.themoviedb.helper</source>
+  <website>https://github.com/chraschi/plugin.video.themoviedb.helper</website>
   <forum>https://forum.kodi.tv/showthread.php?tid=345847</forum>
   <assets>
     <icon>icon.png</icon>
